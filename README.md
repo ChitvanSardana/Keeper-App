@@ -7,9 +7,9 @@ Keeper App is a minimalistic note-taking web application built using React. It a
 # Components
 The app is composed of the following components:
 
-App.jsx: The main component that orchestrates the app's structure.
-Note.jsx: Represents individual notes and their content.
-Header.jsx: Renders the app header with the Keeper App name.
-Footer.jsx: Displays the copyright message in the footer.
+- App.jsx: The main component that orchestrates the app's structure.
+- Note.jsx: Represents individual notes and their content.
+- Header.jsx: Renders the app header with the Keeper App name.
+- Footer.jsx: Displays the copyright message in the footer.
 # Styling
 Keeper App is styled using CSS, creating an aesthetically pleasing and user-friendly experience.
